@@ -44,7 +44,6 @@ This project was developed as part of a university course in software engineerin
 
 ---
 
-## Collaborators
+## Acknowledgements
 
-- [Nome Collaboratore 1]
-- [Nome Collaboratore 2]
+This repository was forked from the original project developed in collaboration with [Emanuele Alberti](https://github.com/emapolixx) and [Alessia Gaudiano](https://github.com/alessiagaudiano).
