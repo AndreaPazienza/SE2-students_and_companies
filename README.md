@@ -1,29 +1,50 @@
-# Students & Companies Platform
+# Student&Companies: Requirements and Design Document
 
-## Overview
-**Students & Companies (S&C)** is a web platform designed to facilitate the connection between **university students searching for internships**, **companies seeking young talent**, and **universities** monitoring the quality of internships.
-
-The main goal is to make the internship application and selection process more **transparent, efficient, and centralized**, reducing complexity for all parties involved
-
---
-
-## Architecture & Design
-- **Microservices architecture** for scalability, resilience, and independence of components.  
-- **RESTful APIs** enabling lightweight communication between services.  
-- **API Gateway** managing and routing client requests.  
-- **Distributed database** split across Account DB, Internship DB, Selection Process DB, and Notification DB.  
-- **User Interfaces** designed with clear mockups for students, companies, and universities:contentReference[oaicite:2]{index=2}.  
+This repository contains the Requirements and Analysis Specification Document (RASD) and the Design Document (DD) for the Student&Companies application, developed as part of the Software Engineering 2 course at Politecnico di Milano. The repository includes the project requirements and design documentation.
 
 ---
 
-## What We Learned
-Throughout this project we had the opportunity to:
-- Apply the complete **Software Engineering cycle**: from the **Requirement Analysis (RASD)** to the **Design Document (DD)**, including architecture, APIs, and UI mockups.  
-- Work as a team in a structured way, distributing tasks and tracking the effort spent.  
-- Deepen our understanding of:
-  - **Requirement Engineering**: phenomena, use cases, functional and non-functional requirements.  
-  - **UML modeling**: Use Case, Sequence, State Machine, and Class diagrams.  
-  - **Formal Analysis with Alloy** to ensure correctness and consistency.  
-  - **Architectural design with microservices** and patterns such as API Gateway and Service Discovery.  
-- Improve our technical communication skills through clear and structured documentation:contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}.  
+## Overview
 
+The goal of this project was to define the requirements and design of the Student&Companies application, focusing on the specification and architectural design phases. No implementation is included in this repository.
+
+---
+
+## Project Structure
+
+- `Deliverables/`: Contains the project documentation.
+  - `RASDv1.pdf`: Requirements and Analysis Specification Document.
+  - `DDv1.pdf`: Design Document.
+
+---
+
+## Documentation
+
+- [Requirements and Analysis Specification Document](Deliverables/RASDv1.pdf)
+- [Design Document](Deliverables/DDv1.pdf)
+
+---
+
+## Technologies
+
+- Requirements Engineering
+- System Design
+
+---
+
+## License
+
+This project is released under the MIT License.
+
+---
+
+## Notes
+
+This project was developed as part of a university course in software engineering. The documentation is provided for educational purposes.
+
+---
+
+## Collaborators
+
+- [Nome Collaboratore 1]
+- [Nome Collaboratore 2]
