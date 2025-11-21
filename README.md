@@ -1,6 +1,6 @@
-# Student&Companies
+# Students&Companies
 
-This repository contains the Requirements and Analysis Specification Document (RASD) and the Design Document (DD) for the Student&Companies application, developed as part of the Software Engineering 2 course at Politecnico di Milano. The repository includes the project requirements and design documentation.
+This repository contains the Requirements and Analysis Specification Document (RASD) and the Design Document (DD) for the Students&Companies application, developed as part of the Software Engineering 2 course at Politecnico di Milano. The repository includes the project requirements and design documentation.
 
 ---
 
