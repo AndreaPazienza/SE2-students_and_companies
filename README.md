@@ -6,7 +6,7 @@ This repository contains the Requirements and Analysis Specification Document (R
 
 ## Overview
 
-The goal of this project was to define the requirements and design of the Student&Companies application, focusing on the specification and architectural design phases. No implementation is included in this repository.
+The goal of this project was to define the requirements and design of the Students&Companies application, focusing on the specification and architectural design phases. No implementation is included in this repository.
 
 ---
 
